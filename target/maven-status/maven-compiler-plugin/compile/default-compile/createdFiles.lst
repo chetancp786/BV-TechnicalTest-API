@@ -1,0 +1,5 @@
+com\BVCurrency\utils\PropertyReader.class
+com\BVCurrency\constants\EndPoints.class
+com\BVCurrency\model\CurrencySteps.class
+com\BVCurrency\constants\Path.class
+com\BVCurrency\utils\TestUtils.class

@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Currency list test","Getting the list of all currencies and verifying GBP & USD in the list, list has more than 20 items & storing all abbreviations to an ArrayList ","SUCCESS","2022-02-12T18:04:22.952Z[Europe/London]","0.0","4.41"
+"Currency list test","Getting single currency record and checking that all currencies have same amount of currencies to exchange to","SUCCESS","2022-02-12T18:04:27.394Z[Europe/London]","0.0","25.19"
